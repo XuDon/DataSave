@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="input_key">请输入用户名:</string>
+    <string name="user_password_hint">请输入密码:</string>
+</resources>
